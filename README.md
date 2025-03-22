@@ -8,4 +8,5 @@ The ROMs include:
 * [lab.gbc](https://github.com/LIJI32/GBMusicROMs/blob/master/lab.gbc?raw=true) – *Underwater Lab* from *Within a Deep Forest* (Compatible with Game Boy Color and Game Boy Advance)
 * [PrayerX.gbc](https://github.com/LIJI32/GBMusicROMs/blob/master/PrayerX.gbc?raw=true) – *Prayer X* by *King Gnu* (Compatible with Game Boy Color and Game Boy Advance)
 * [Omori.gbc](https://github.com/LIJI32/GBMusicROMs/blob/master/Omori.gbc?raw=true) – The Main Theme from *Omori* (Compatible with all models)
+* [Cafune.gbc](https://github.com/LIJI32/GBMusicROMs/blob/master/Cafune.gbc?raw=true) – *Cafuné* by *Brian the Sun* (Compatible with all models)
 
